@@ -33,7 +33,7 @@ CAY-2147	Crash	Problems in settings	Modifying my settings	2908	2	1	0	Major	CAY
 CB-10939	Unexpected behavior	Problems in settings	Modifying my settings	310	1	1	0	Blocker	CB
 CB-10950	Crash	Problems in operating systems	Modifying API calls	15901	6	7	0	Major	CB
 CB-11449	Unexpected behavior	Problems in my libraries + Problems in operating systems	Switching to older versions	17	2	5	0	Major	CB
-CB-11974	Unexpected behavior	Outside contributors	Repairing as technical debts	15399	5	8	0	Major	CB
+CB-11974	Unexpected behavior	External contributors	Repairing as technical debts	15399	5	8	0	Major	CB
 CB-12002	Unexpected behavior	Flawed repairs	Repairing as technical debts	14506	4	20	0	Major	CB
 CB-12037	Unexpected behavior	Problems in my libraries	Switching to other libraries	15083	7	5	0	Major	CB
 CB-12078	Build and testing error	Flawed repairs	Switching to other techniques	119	2	3	0	Major	CB
