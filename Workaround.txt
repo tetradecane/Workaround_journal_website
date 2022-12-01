@@ -17,7 +17,7 @@ ASTERIXDB-1518	Build and testing error	Problems in settings	Modifying build file
 ASTERIXDB-1675	Crash	Problems in my clients	Modifying build files or options 	13	5	11	0	Blocker	ASTERIXDB
 ASTERIXDB-1767	Errors in warning message	Problems in settings	Modifying my settings	2282	2	2	0	Major	ASTERIXDB
 ATLAS-1057	Build and testing error	Unavailable resources	Modifying build files or options	18	3	5	0	Major	ATLAS
-BEAM-1048	Unexpected behavior	Flawed repairs	Repairing as technical debts	3092	5	6	0	P2	BEAM
+BEAM-1048	Unexpected behavior	Flawed repairs	Repairing as technical debt	3092	5	6	0	P2	BEAM
 BEAM-2268	Crash	Problems in settings	Modifying my settings	3	2	3	0	P2	BEAM
 BEAM-3525	Unexpected behavior	Problems in my clients	Modifying my settings	26	2	3	0	P3	BEAM
 BEAM-6289	Crash	Problems in my libraries	Modifying the settings of libraries	328	4	13	0	P1	BEAM
@@ -33,8 +33,8 @@ CAY-2147	Crash	Problems in settings	Modifying my settings	2908	2	1	0	Major	CAY
 CB-10939	Unexpected behavior	Problems in settings	Modifying my settings	310	1	1	0	Blocker	CB
 CB-10950	Crash	Problems in operating systems	Modifying API calls	15901	6	7	0	Major	CB
 CB-11449	Unexpected behavior	Problems in my libraries + Problems in operating systems	Switching to older versions	17	2	5	0	Major	CB
-CB-11974	Unexpected behavior	External contributors	Repairing as technical debts	15399	5	8	0	Major	CB
-CB-12002	Unexpected behavior	Flawed repairs	Repairing as technical debts	14506	4	20	0	Major	CB
+CB-11974	Unexpected behavior	External contributors	Repairing as technical debt	15399	5	8	0	Major	CB
+CB-12002	Unexpected behavior	Flawed repairs	Repairing as technical debt	14506	4	20	0	Major	CB
 CB-12037	Unexpected behavior	Problems in my libraries	Switching to other libraries	15083	7	5	0	Major	CB
 CB-12078	Build and testing error	Flawed repairs	Switching to other techniques	119	2	3	0	Major	CB
 CB-12113	Unexpected behavior	Problems in my libraries	Switching to older versions	18	1	5	0	Major	CB
@@ -43,7 +43,7 @@ CB-12688	Unexpected behavior	Flawed repairs	Modifying the settings of libraries	
 CB-13038	Unexpected behavior	Incorrect techniques	Switching to other techniques	1217	5	7	0	Minor	CB
 COMPRESS-449	Crash	Problems in languages	Implementing wrappers	338	3	12	1	Major	COMPRESS
 COMPRESS-471	Unexpected behavior	Flawed repairs	Implementing wrappers	288	2	8	0	Major	COMPRESS
-CTAKES-363	Crash	Problems in my clients	Repairing as technical debts	15547	2	3	0	Major	CTAKES
+CTAKES-363	Crash	Problems in my clients	Repairing as technical debt	15547	2	3	0	Major	CTAKES
 CTAKES-409	Unexpected behavior	Problems in my libraries	Deep copying	3584	3	3	0	Major	CTAKES
 CTAKES-413	Crash	Incorrect techniques	Switching to other techniques	1724	3	2	0	Major	CTAKES
 CXF-5773	Unexpected behavior	Problems in my libraries	Switching to other techniques + Modifying the settings of libraries 	25014	3	1	0	Major	CXF
@@ -75,7 +75,7 @@ FREEMARKER-87	Unexpected behavior	Incompatible issues	Overridden APIs	261	3	21	0
 GEODE-2151	Build and testing error	Flawed repairs	Modifying operating systems	10268	1	2	0	Major	GEODE
 GEODE-2412	Build and testing error	Flawed repairs	Unfixed problems	118	3	3	1	Major	GEODE
 GEODE-5410	Crash	Incorrect techniques	Modifying the settings of libraries	481	3	1	0	Minor	GEODE
-GEODE-6740	Crash	Problems in the network	Repairing as technical debts	223	8	7	0	Major	GEODE
+GEODE-6740	Crash	Problems in the network	Repairing as technical debt	223	8	7	0	Major	GEODE
 GROOVY-8041	Unexpected behavior	Incompatible issues	Deep copying	118	1	6	0	Major	GROOVY
 HADOOP-14177	Build and testing error	Problems in operating systems	Modifying build files or options	4079	2	3	0	Minor	HADOOP
 HAWQ-1300	Build and testing error	Problems in my libraries	Switching to older versions	5190	3	2	0	Major	HAWQ
@@ -97,7 +97,7 @@ INFRA-12664	Build and testing error	Incorrect techniques	Switching to other tech
 INFRA-13145	Unexpected behavior	Problems in my clients	No need to fix	150	2	4	0	Major	INFRA
 INFRA-13203	Unexpected behavior	Problems in my clients	Modifying documents	0	1	1	0	Minor	INFRA
 INFRA-14922	Build and testing error	Problems in settings	Deep copying	13	2	6	0	Minor	INFRA
-INFRA-14971	Build and testing error	Flawed repairs	Repairing as technical debts	3842	3	18	1	Major	INFRA
+INFRA-14971	Build and testing error	Flawed repairs	Repairing as technical debt	3842	3	18	1	Major	INFRA
 INFRA-15128	Build and testing error	Incompatible issues	Unfixed problems	59	3	5	0	Major	INFRA
 INFRA-15687	Build and testing error	Incorrect techniques	Switching to other techniques	0	3	3	0	Blocker	INFRA
 INFRA-15934	Build and testing error	Unavailable resources	No need to fix	6	2	3	0	Major	INFRA
@@ -106,7 +106,7 @@ INFRA-16907	Build and testing error	Problems in my clients	Modifying my settings
 INFRA-18150	Build and testing error	Unavailable resources	Modifying my settings	82	6	11	0	Major	INFRA
 ISIS-1963	Crash	Problems in my libraries	Bypassing APIs with bugs	91	1	3	2	Blocker	ISIS
 JCLOUDS-1169	Crash	Problems in my libraries	Switching to older versions	17	3	6	1	Blocker	JCLOUDS
-JCLOUDS-1293	Crash	Problems in the network	Implementing wrappers + Repairing as technical debts	623	3	10	1	Major	JCLOUDS
+JCLOUDS-1293	Crash	Problems in the network	Implementing wrappers + Repairing as technical debt	623	3	10	1	Major	JCLOUDS
 JCLOUDS-1326	Crash	Problems in settings	Modifying my settings	19	3	3	0	Major	JCLOUDS
 JCLOUDS-487	Unexpected behavior	Problems in my clients	Modifying API calls	25055	3	1	0	Minor	JCLOUDS
 JENA-1207	Crash	Problems in my clients	Modifying API calls	6	3	7	0	Major	JENA
@@ -172,7 +172,7 @@ SPARK-14203	Unexpected behavior	Problems in my clients	Modifying API calls	45	2	
 SPARK-20394	Unexpected behavior	Problems in settings	Modifying my settings	2208	3	4	0	Major	SPARK
 SPARK-22711	Crash	Problems in my clients	Modifying API calls	2727	5	18	0	Major	SPARK
 SPOT-26	Crash	Borderline cases	Modifying my settings	2520	6	4	0	Major	SPOT
-SSHD-754	Crash	Problems in my clients + Problems in the network	Modifying my settings + Repairing as technical debts	1529	2	8	2	Major	SSHD
+SSHD-754	Crash	Problems in my clients + Problems in the network	Modifying my settings + Repairing as technical debt	1529	2	8	2	Major	SSHD
 SYNAPSE-1098	Unexpected behavior	Problems in my clients	Modifying API calls	22	1	1	0	Major	SYNAPSE
 SYSTEMML-1071	Crash	Borderline cases	Switching to other techniques	118	1	5	1	Major	SYSTEMDS
 THRIFT-3358	Build and testing error	Incorrect techniques	Switching to other techniques	11683	2	3	0	Major	THRIFT
