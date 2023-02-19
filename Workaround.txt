@@ -1,4 +1,4 @@
-ID	Symptom	Cause	Repair	time_to_resolve	n_watchers	n_comments	n_issuelinks	Priority	Project
+ID	Symptom	Cause	Repair	hours_to_resolve	n_watchers	n_comments	n_issuelinks	Priority	Project
 AIRFLOW-217	Crash	Problems in settings	Modifying build files or options	22	1	1	0	Minor	AIRFLOW
 AIRFLOW-43	Crash	Problems in operating systems	Modifying operating systems	27	6	11	1	Critical	AIRFLOW
 AIRFLOW-436	Unexpected behavior	Problems in my clients	Modifying API calls	1368	3	3	0	Major	AIRFLOW
